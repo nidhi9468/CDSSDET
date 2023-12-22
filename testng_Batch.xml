@@ -6,6 +6,7 @@
       <class name="git.Gitdemo_2"/>
       <class name="git.Git_Demo"/>
       <class name="git.GitDemo"/>
-    </classes>
+      <class name="git.JenkisExecution"></class>
+      </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
