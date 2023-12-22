@@ -1,8 +1,15 @@
 package git;
 
+import org.testng.annotations.Test;
+
 public class Gitdemo_2 {
 	
-	public static void main(String[] args) {
+		
+		@Test
+
+		public void runGit_Demo_2() {
+	
+	
 		System.out.println("Second git program");
 	}
 

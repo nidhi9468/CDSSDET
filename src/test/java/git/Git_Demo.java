@@ -1,8 +1,13 @@
 package git;
 
-public class Git_Demo {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
+public class Git_Demo {
+	
+	
+	@Test
+
+	public void runGit_Demo() {
 		System.out.println("Git project added");
 
 	}
