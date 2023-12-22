@@ -7,6 +7,7 @@
       <class name="git.Git_Demo"/>
       <class name="git.GitDemo"/>
       <class name="git.JenkisExecution"></class>
+      <class name="git.PollSCM"></class>
       </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

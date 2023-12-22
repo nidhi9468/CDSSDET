@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-22T16:39:45 IST" name="Default suite" finished-at="2023-12-22T16:39:45 IST" duration-ms="47">
+  <suite started-at="2023-12-22T16:54:19 IST" name="Default suite" finished-at="2023-12-22T16:54:19 IST" duration-ms="44">
     <groups>
     </groups>
-    <test started-at="2023-12-22T16:39:45 IST" name="Default test" finished-at="2023-12-22T16:39:45 IST" duration-ms="47">
-      <class name="git.JenkisExecution">
-        <test-method signature="runJenkis()[pri:0, instance:git.JenkisExecution@1da2cb77]" started-at="2023-12-22T16:39:45 IST" name="runJenkis" finished-at="2023-12-22T16:39:45 IST" duration-ms="6" status="PASS">
+    <test started-at="2023-12-22T16:54:19 IST" name="Default test" finished-at="2023-12-22T16:54:19 IST" duration-ms="44">
+      <class name="git.PollSCM">
+        <test-method signature="runPoll()[pri:0, instance:git.PollSCM@4d465b11]" started-at="2023-12-22T16:54:19 IST" name="runPoll" finished-at="2023-12-22T16:54:19 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- runJenkis -->
-      </class> <!-- git.JenkisExecution -->
+        </test-method> <!-- runPoll -->
+      </class> <!-- git.PollSCM -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
