@@ -11,6 +11,8 @@ public class PollSCM {
 
 	
 		System.out.println("Running PollSCM");
+		System.out.println("Running code periodically");
+		
 
 }
 
